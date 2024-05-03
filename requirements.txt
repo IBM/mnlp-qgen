@@ -1,6 +1,6 @@
 nltk>=3.6.6
 numpy==1.22.0
-tqdm==4.26.0
+tqdm==4.66.3
 allennlp==0.8.5
 pytorch-ignite==0.2.0
 pytorch_transformers==1.1.0
